@@ -1,0 +1,89 @@
+
+ 
+	
+	
+Übersichten
+	
+Karte
+	
+Berichte
+	
+Nachrichten
+	
+ 
+ 
+		
+Rangliste
+(10.634.|165 P)
+		
+      Stamm
+	
+Profil (1)
+	
+ 3899
+	
+Einstellungen
+	
+	
+	
+
+		
+	
+
+    Hauptgebäude Rekrutieren Kirche Adelshof Schmiede Versammlungsplatz Marktplatz 
+
+	
+		
+lowmas Dorf 	(423|655) K64 	
+			
+	37 		326 		684 		1859 		180/281
+	
+	1		
+Angriffsschutz endet in 111:57:54.
+Kombiniert
+	
+Produktion
+	
+Transporte
+	
+Truppen
+	
+Befehle
+	
+Eintreffend
+	
+Gebäude
+	
+Forschung
+	
+Gruppen
+	
+Account-Manager
+
+Gruppen: [Volle Offensive] [Ankommender Angriff] [Enthält Adelsgeschlecht] >alle<
+Alle
+	
+Eigene
+	
+Im Dorf
+	
+Auswärts
+	
+Unterwegs
+	
+Verteidigung
+	
+Unterstützungen
+Dorf (1) 														Aktion
+lowmas Dorf (423|655) K64 	eigene 	38	20	0	0	0	0	0	0	0	0	0	0 	Befehle
+im Dorf 	38	20	0	0	0	0	0	0	0	0	0	0 	Truppen
+auswärts 	0	0	0	0	0	0	0	0	0	0	0	0
+unterwegs 	0	0	0	0	0	0	0	0	0	0	0	0 	Befehle
+insgesamt 	38	20	0	0	0	0	0	0	0	0	0	0 	Truppen
+
+Serverzeit: 01:50:43 23/12/2020
+	
+		
+  	  	 
+Chat
+Welt 185 Forum  -  Hilfe  -  Support  -  Spieler einladen  -  Notizblock  -  Ausloggen  -  Facebook

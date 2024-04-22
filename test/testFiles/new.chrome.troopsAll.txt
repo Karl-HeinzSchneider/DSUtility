@@ -1,0 +1,162 @@
+ 
+ Übersichten
+ Karte
+ Berichte
+ Nachrichten
+ 
+ 
+Rangliste
+(42.|92.900 P)
+      Stamm
+ Profil
+ 13704 
+ Einstellungen
+
+Hautgebäude  Rekrutieren  Schmiede  Versammlungsplatz  Marktplatz  ppdepot
+Gangstas Spielplatz	(444|420) K44	
+76431		130572		176753		325337		17469/17469
+
+Kombiniert
+Produktion
+Transporte
+Truppen
+Befehle
+Eintreffend
+Gebäude
+Forschung
+Gruppen
+Account-Manager
+
+Gruppen: >alle< [Ankommender Angriff] [AG] [Dorf hat UT]
+[.]
+[safe off] [skav off] [volle off] [halbe off]
+[-]
+[safe deff] [flex deff]
+[_]
+[Flagge/Münzen] [Flagge/keine Flagge]
+[+]
+[Dorf/Ausbau] [Dorf/Fertig] [Dorf/keine Gruppe zugewiesen]
+Alle
+Eigene
+Im Dorf
+Auswärts
+Unterwegs
+Verteidigung
+Unterstützungen
+Truppen	Eigene	Im Dorf	Auswärts	Unterwegs	Eigene Gesamt	Ingesamt
+Speerträger	11.579	15.546	8.174	520	20.273	24.240
+Schwertkämpfer	5.522	9.429	7.667	517	13.706	17.613
+Axtkämpfer	19.573	19.573	0	4.997	24.570	24.570
+Späher	1.629	1.837	308	77	2.014	2.222
+Leichte Kavallerie	5.696	5.696	0	2.042	7.738	7.738
+Schwere Kavallerie	1.767	1.767	0	247	2.014	2.014
+Rammbock	1.023	1.023	0	294	1.317	1.317
+Katapult	282	282	0	100	382	382
+Dorf (20)WB											Aktion
+*Gangstas Spielplatz (441|422) K44 	eigene	0	5	2119	50	740	136	140	38	0	Befehle
+im Dorf	0	5	2119	50	740	136	140	38	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	0	5	2119	50	740	136	140	38	0	Truppen
+Gangstas Spielplatz (449|418) K44 	eigene	866	680	0	233	0	0	0	0	0	Befehle
+im Dorf	866	680	0	233	0	0	0	0	0	Truppen
+auswärts	898	653	0	29	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	1764	1333	0	262	0	0	0	0	0	Truppen
+Gangstas Spielplatz (440|418) K44 	eigene	0	5	2793	45	1196	400	139	36	0	Befehle
+im Dorf	0	5	2793	45	1196	400	139	36	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	125	15	50	0	0	0	1	Befehle
+insgesamt	0	5	2918	60	1246	400	139	36	1	Truppen
+Gangstas Spielplatz (445|418) K44 	eigene	2271	1010	334	290	5	30	0	25	0	Befehle
+im Dorf	2271	1010	334	290	5	30	0	25	0	Truppen
+auswärts	2291	2398	0	134	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	4562	3408	334	424	5	30	0	25	0	Truppen
+Gangstas Spielplatz (448|418) K44 	eigene	150	5	3039	61	1195	217	219	50	0	Befehle
+im Dorf	150	5	3039	61	1195	217	219	50	0	Truppen
+auswärts	100	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	250	5	3039	61	1195	217	219	50	0	Truppen
+Gangstas Spielplatz (446|418) K44 	eigene	1718	896	0	150	0	0	0	25	0	Befehle
+im Dorf	1718	896	0	150	0	0	0	25	0	Truppen
+auswärts	2058	1895	0	75	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	3776	2791	0	225	0	0	0	25	0	Truppen
+Gangstas Spielplatz (443|419) K44 	eigene	50	25	0	0	0	0	0	0	0	Befehle
+im Dorf	50	25	0	0	0	0	0	0	0	Truppen
+auswärts	217	100	0	20	0	0	0	0	0
+unterwegs	0	0	4206	37	1659	247	225	50	0	Befehle
+insgesamt	267	125	4206	57	1659	247	225	50	0	Truppen
+Gangstas Spielplatz (441|420) K44 	eigene	2376	1298	0	235	0	540	0	25	0	Befehle
+im Dorf	2376	1298	0	235	0	540	0	25	0	Truppen
+auswärts	1492	1506	0	25	0	0	0	0	0
+unterwegs	520	517	0	0	0	0	0	0	0	Befehle
+insgesamt	4388	3321	0	260	0	540	0	25	0	Truppen
+Gangstas Spielplatz (444|420) K44 	eigene	0	0	3612	60	1210	280	156	0	0	Befehle
+im Dorf	0	0	3612	60	1210	280	156	0	0	Truppen
+auswärts	193	190	0	0	0	0	0	0	0
+unterwegs	0	0	666	25	333	0	69	50	1	Befehle
+insgesamt	193	190	4278	85	1543	280	225	50	1	Truppen
+Gangstas Spielplatz (443|414) K44 	eigene	0	0	3247	65	961	164	199	46	0	Befehle
+im Dorf	0	0	3247	65	961	164	199	46	0	Truppen
+auswärts	175	175	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	175	175	3247	65	961	164	199	46	0	Truppen
+Gangstas Spielplatz (440|414) K44 	eigene	854	609	0	175	0	0	0	0	0	Befehle
+im Dorf	854	609	0	175	0	0	0	0	0	Truppen
+auswärts	250	250	0	25	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	1104	859	0	200	0	0	0	0	0	Truppen
+Gangstas Spielplatz (441|408) K44 	eigene	600	415	0	65	0	0	0	0	0	Befehle
+im Dorf	600	415	0	65	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	600	415	0	65	0	0	0	0	0	Truppen
+Gangstas Spielplatz (442|404) K44 	eigene	770	403	0	0	0	0	0	0	0	Befehle
+im Dorf	770	403	0	0	0	0	0	0	0	Truppen
+auswärts	500	500	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	1270	903	0	0	0	0	0	0	0	Truppen
+Gangstas Spielplatz (442|403) K44 	eigene	126	22	1202	100	0	0	0	0	0	Befehle
+im Dorf	195	91	1202	169	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	195	91	1202	169	0	0	0	0	0	Truppen
+Gangstas Spielplatz (443|404) K44 	eigene	0	5	963	0	0	0	0	0	0	Befehle
+im Dorf	0	5	963	0	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	0	5	963	0	0	0	0	0	0	Truppen
+Gangstas Spielplatz (450|396) K34 	eigene	0	0	0	0	0	0	0	0	0	Befehle
+im Dorf	0	0	0	0	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	0	0	0	0	0	0	0	0	0	Truppen
+Gangstas Spielplatz (451|396) K34 	eigene	816	19	0	0	0	0	0	0	0	Befehle
+im Dorf	816	19	0	0	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	816	19	0	0	0	0	0	0	0	Truppen
+Gangstas Spielplatz (443|402) K44 	eigene	950	91	0	0	0	0	0	0	0	Befehle
+im Dorf	950	91	0	0	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	950	91	0	0	0	0	0	0	0	Truppen
+Gangstas Spielplatz (451|394) K34 	eigene	32	34	2264	100	389	0	170	37	1	Befehle
+im Dorf	3930	3872	2264	239	389	0	170	37	1	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	3930	3872	2264	239	389	0	170	37	1	Truppen
+Lowmas Spielplatz (442|410) K44 	eigene	0	0	0	0	0	0	0	0	0	Befehle
+im Dorf	0	0	0	0	0	0	0	0	0	Truppen
+auswärts	0	0	0	0	0	0	0	0	0
+unterwegs	0	0	0	0	0	0	0	0	0	Befehle
+insgesamt	0	0	0	0	0	0	0	0	0	Truppen
+Dörfer pro Seite:	
+20
+Serverzeit: 04:13:28 09/10/2021	
+ 	 	 
+Chat
+Stammes-Chat
+Welt 195 Forum  -  Hilfe  -  Support  -  Spieler einladen  -  Notizblock  -  Ausloggen  -  Facebook
