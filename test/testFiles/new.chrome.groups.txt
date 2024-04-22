@@ -1,0 +1,86 @@
+ 
+ Übersichten
+ Karte
+ Berichte (1)
+ Nachrichten
+ 
+ 
+Rangliste
+(42.|92.754 P)
+      Stamm (2)
+ Profil
+ 13409 
+ Einstellungen
+
+Hautgebäude  Rekrutieren  Schmiede  Versammlungsplatz  Marktplatz  ppdepot
+Gangstas Spielplatz	(445|418) K44	
+9774		10774		1774		264611		12850/14904
+
+Kombiniert
+Produktion
+Transporte
+Truppen
+Befehle
+Eintreffend
+Gebäude
+Forschung
+Gruppen
+Account-Manager
+
+Dynamische Gruppen
+Manuelle Gruppen
+Menü
+Gruppen: >alle< [Ankommender Angriff] [AG] [Dorf hat UT]
+[.]
+[safe off] [skav off] [volle off] [halbe off]
+[-]
+[safe deff] [flex deff]
+[_]
+[Flagge/Münzen] [Flagge/keine Flagge]
+[+]
+[Dorf/Ausbau] [Dorf/Fertig] [Dorf/keine Gruppe zugewiesen]
+Gruppe erstellen:
+ 
+Manuelle Gruppen
+.Gruppe löschenGruppe umbenennen
+safe offGruppe löschenGruppe umbenennen
+skav offGruppe löschenGruppe umbenennen
+-Gruppe löschenGruppe umbenennen
+safe deffGruppe löschenGruppe umbenennen
+Zeige 4 weitere Gruppen
+Dorf (20)	Anzahl	Punkte	Bauernhof	Gruppen	bearbeiten
+ *Gangstas Spielplatz (441|422) K44 	1	6.698	9547 / 17469	safe off	» bearbeiten
+ Gangstas Spielplatz (449|418) K44 	1	3.869	5559 / 5748	flex deff	» bearbeiten
+ Gangstas Spielplatz (440|418) K44 	1	10.136	15069 / 24000	safe off	» bearbeiten
+ Gangstas Spielplatz (445|418) K44 	1	7.815	12850 / 14904	flex deff	» bearbeiten
+ Gangstas Spielplatz (448|418) K44 	1	5.930	13561 / 17469	safe off	» bearbeiten
+ Gangstas Spielplatz (446|418) K44 	1	5.355	9651 / 12715	flex deff	» bearbeiten
+ Gangstas Spielplatz (443|419) K44 	1	8.309	17471 / 20476	safe off	» bearbeiten
+ Gangstas Spielplatz (441|420) K44 	1	7.620	14804 / 14904	flex deff	» bearbeiten
+ Gangstas Spielplatz (444|420) K44 	1	7.829	17469 / 17469	safe off	» bearbeiten
+ Gangstas Spielplatz (443|414) K44 	1	7.467	13155 / 14904	safe off	» bearbeiten
+ Gangstas Spielplatz (440|414) K44 	1	2.949	3565 / 3569	flex deff	» bearbeiten
+ Gangstas Spielplatz (441|408) K44 	1	3.945	2162 / 24000	flex deff	» bearbeiten
+ Gangstas Spielplatz (442|404) K44 	1	1.790	3121 / 3569	flex deff	» bearbeiten
+ Gangstas Spielplatz (442|403) K44 	1	3.896	3365 / 3569	safe off	» bearbeiten
+ Gangstas Spielplatz (443|404) K44 	1	1.735	1863 / 3569	safe off	» bearbeiten
+ Gangstas Spielplatz (450|396) K34 	1	878	421 / 3045	safe off	» bearbeiten
+ Gangstas Spielplatz (451|396) K34 	1	737	1239 / 2598	flex deff	» bearbeiten
+ Gangstas Spielplatz (443|402) K44 	1	940	1546 / 3569	flex deff	» bearbeiten
+ Gangstas Spielplatz (451|394) K34 	1	4.816	7723 / 7896	safe off	» bearbeiten
+ Lowmas Spielplatz (442|410) K44 	0	40	23 / 240	nicht zugeordnet	» bearbeiten
+ alle auswählen
+
+.
+  
+Sortierung: Dorf aufsteigend
+
+Klicke auf "Dorf", "Anzahl", "Punkte" oder "Bauernhof", um die Sortierung zu ändern.
+
+Dörfer pro Seite:	
+25
+Serverzeit: 03:04:35 09/10/2021	
+ 	 	 
+Chat
+Stammes-Chat
+Welt 195 Forum  -  Hilfe  -  Support  -  Spieler einladen  -  Notizblock  -  Ausloggen  -  Facebook
