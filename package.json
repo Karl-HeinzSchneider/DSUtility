@@ -1,0 +1,22 @@
+{
+  "name": "dsutility",
+  "version": "3.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "keywords": [],
+  "author": "Karl-HeinzSchneider",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Karl-HeinzSchneider/dsutility/"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
