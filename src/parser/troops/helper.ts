@@ -115,15 +115,68 @@ export function parseSupportString(data: string[], origin: coords, target: coord
     const distance = Number(data[0]) ? Number(data[0]) : 0;
     const troops = parseTroopsString(data, origin, troopType.ALL, config);
 
-    if (troops) {
-        return {
-            origin: origin,
-            target: target,
-            distance: distance,
-            troops: troops.troops,
-        }
-    }
-    else {
+    if (!troops) {
         return null;
     }
+
+    return {
+        origin: origin,
+        target: target,
+        distance: distance,
+        troops: troops.troops,
+    }
+}
+
+export function parseSupportStringExtended(data: string[], origin: coords, target: coords, config: configTroops, extended: string): suppInformation | null {
+    if (data.length < 10) {
+        return null;
+    }
+    const distance = Number(data[0]) ? Number(data[0]) : 0;
+    const troops = parseTroopsString(data, origin, troopType.ALL, config);
+
+    if (!troops) {
+        return null;
+    }
+
+    const playerAlly = parsePlayerAlly(extended);
+
+    return {
+        origin: origin,
+        target: target,
+        distance: distance,
+        troops: troops.troops,
+        targetPlayer: playerAlly.player,
+        targetAlly: playerAlly.ally
+    }
+}
+
+export const matchPlayerAlly = /K\d{1,2}\s[(](.*)[)]$/g
+
+export function parsePlayerAlly(data: string) {
+    let player = '';
+    let ally = '';
+
+    const match = [...data.matchAll(matchPlayerAlly)]
+    //console.log(data);
+    //console.log('match', match);
+
+    if (!match || match.length === 0) {
+        return { player, ally }
+    }
+
+    const str = match[0][1];
+
+    const split1 = str.split('[')
+
+    player = split1[0].trimEnd();
+
+    // => no '[' => no ally
+    if (split1.length === 1) {
+        return { player, ally }
+    }
+
+    const split2 = split1[1].split(']')
+    ally = split2[0]
+
+    return { player, ally }
 }
