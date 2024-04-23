@@ -2,11 +2,11 @@ import { coordsToObj, matchCoordsLast, matchesRegex } from '../../regex/helper';
 import { coordsFactory } from '../../regex/interfaces';
 import { divideOriginX, divideNumberX } from '../../regex/constants'
 import { configTroops, suppInformation, troopsSuppObj } from './interfaces';
-import { parseSupportString } from './helper';
+import { parseSupportString, parseSupportStringExtended } from './helper';
 import { inspectObj } from '../inspectImport';
 
 
-export function parseTroopsSupp(data: inspectObj, config: configTroops): troopsSuppObj {
+export function parseTroopsSupp(data: inspectObj, config: configTroops, extended: boolean = false): troopsSuppObj {
 
     let origin = coordsFactory(-1, -1);
     let troopsArray: suppInformation[] = [];
@@ -37,7 +37,7 @@ export function parseTroopsSupp(data: inspectObj, config: configTroops): troopsS
             }
             // troops outside from origin at coords #CHROME
             else if (matchesRegex(lineArray[1], divideNumberX)) {
-                const troops = parseSupportString(lineArray.slice(1), origin, coords, config);
+                const troops = extended ? parseSupportStringExtended(lineArray.slice(1), origin, coords, config, lineArray[0]) : parseSupportString(lineArray.slice(1), origin, coords, config);
                 if (troops) {
                     //console.log('troops at' + '\n' + JSON.stringify(troops));
                     troopsArray.push(troops);
@@ -49,7 +49,7 @@ export function parseTroopsSupp(data: inspectObj, config: configTroops): troopsS
             // troops outside from origin at coords #FIREFOX -> Skip
             else if (matchesRegex(lineArray[2], divideNumberX)) {
                 //console.log('firefox')               
-                const troops = parseSupportString(lineArray.slice(2), origin, coords, config);
+                const troops = extended ? parseSupportStringExtended(lineArray.slice(2), origin, coords, config, lineArray[0]) : parseSupportString(lineArray.slice(2), origin, coords, config);
                 if (troops) {
                     //console.log('troops at (firefox)' + '\n' + JSON.stringify(troops));
                     troopsArray.push(troops);

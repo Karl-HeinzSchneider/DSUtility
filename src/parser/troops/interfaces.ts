@@ -18,7 +18,9 @@ export interface suppInformation {
     origin: coords,
     target: coords,
     distance: number,
-    troops: troops
+    troops: troops,
+    targetPlayer?: string,
+    targetAlly?: string
 }
 
 export interface troopsSuppObj {
