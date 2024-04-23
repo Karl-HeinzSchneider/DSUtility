@@ -49,7 +49,7 @@ export function parseTroopsSupp(data: inspectObj, config: configTroops, extended
             // troops outside from origin at coords #FIREFOX -> Skip
             else if (matchesRegex(lineArray[2], divideNumberX)) {
                 //console.log('firefox')               
-                const troops = extended ? parseSupportStringExtended(lineArray.slice(2), origin, coords, config, lineArray[0]) : parseSupportString(lineArray.slice(2), origin, coords, config);
+                const troops = extended ? parseSupportStringExtended(lineArray.slice(2), origin, coords, config, lineArray[0] + ' ' + lineArray[1].trimEnd()) : parseSupportString(lineArray.slice(2), origin, coords, config);
                 if (troops) {
                     //console.log('troops at (firefox)' + '\n' + JSON.stringify(troops));
                     troopsArray.push(troops);

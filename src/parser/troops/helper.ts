@@ -150,9 +150,33 @@ export function parseSupportStringExtended(data: string[], origin: coords, targe
     }
 }
 
+export const matchPlayerAlly = /K\d{1,2}\s[(](.*)[)]$/g
+
 export function parsePlayerAlly(data: string) {
-    let player = '*PLAYER*';
-    let ally = '*ALLY*';
+    let player = '';
+    let ally = '';
+
+    const match = [...data.matchAll(matchPlayerAlly)]
+    //console.log(data);
+    //console.log('match', match);
+
+    if (!match || match.length === 0) {
+        return { player, ally }
+    }
+
+    const str = match[0][1];
+
+    const split1 = str.split('[')
+
+    player = split1[0].trimEnd();
+
+    // => no '[' => no ally
+    if (split1.length === 1) {
+        return { player, ally }
+    }
+
+    const split2 = split1[1].split(']')
+    ally = split2[0]
 
     return { player, ally }
 }
